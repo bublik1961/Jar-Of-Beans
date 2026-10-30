@@ -226,4 +226,4 @@ Jar of Beans is offered as a complete free version with all features and updates
 **Download Jar of Beans today and enjoy running your favorite Android apps on your Windows PC!**
 
 ---
-**Last updated:** 2026-10-30 16:53:46 UTC
+**Last updated:** 2026-10-30 21:16:00 UTC
